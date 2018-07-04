@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kas-kad/infobip-mobile-messaging-cordova-plugin.git"
+    "url": "https://github.com/kas-kad/infobip-mobile-messaging-cordova-plugin.git"
   },
   "keywords": [
     "infobip",
